@@ -1,0 +1,1 @@
+Noch wird \abc nicht veraendert. Aber jetzt kommt eine Makrodefinition \def\abc?abcA\?B\?Cabc?, die dann hier \abc zu einer Textersetzung führt.
